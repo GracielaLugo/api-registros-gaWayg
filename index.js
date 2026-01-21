@@ -12,7 +12,7 @@ const API_USER = 'admin';
 const API_PASSWORD = 'passwordSeguro123';
 
 // URLs de los Microservicios (Ajusta estos valores según tus servicios reales)
-const URL_SERVICE_USERS = 'https://api-registros-registro.vercel.app/api/register';
+const URL_SERVICE_USERS = 'https://api-registros-registro.vercel.app/';
 const URL_SERVICE_CODES = 'https://api-registros-codigo-inky.vercel.app/';
 const URL_SERVICE_CONFIRM = 'https://api-registros-confirmacion.vercel.app/';
 // --------------------------------------
